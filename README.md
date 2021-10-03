@@ -6,7 +6,7 @@
   - yolo_video.ipynb : 핸드폰을 감지하는 코드
   - final.ipynb : 위의 두가지 코드를 합친 완성본 코드
 
-### 필요 파일 : yolov3.weights, yolov3.cfg, coco.names, shape_predictor_68_face_landmarks.dat
+### 추가 필요 파일 : yolov3.weights, yolov3.cfg, coco.names, shape_predictor_68_face_landmarks.dat
 ---
 ## APPENDIX
 #### [외부 데이터 출처]
