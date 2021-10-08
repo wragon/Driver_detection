@@ -18,8 +18,8 @@
 * YoloV3
 * CNN
 * DeepLearning
-* tensorflow
-* keras
+* Tensorflow
+* Keras
 
 ## result
 ![image](https://user-images.githubusercontent.com/62223905/136493433-2f3265ea-dd02-430a-95ad-c1de9b636c97.png)
