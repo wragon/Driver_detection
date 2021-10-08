@@ -42,8 +42,3 @@
   - yolov3.cfg
   - coco.names
   - shape_predictor_68_face_landmarks.dat
-
-#### [외부 데이터 출처]
-   - https://hanryang1125.tistory.com/19
-   - https://github.com/kairess/eye_blink_detector
-   - https://github.com/seongheum-ssu/2021-1-2150054901/blob/main/exp/2021-05-13
