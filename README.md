@@ -6,15 +6,6 @@
   - yolo_video.ipynb : 핸드폰을 감지하는 코드
   - final.ipynb : 위의 두가지 코드를 합친 완성본 코드
 
-## 사용 기술
-* Dlib
-* Hog Algorithm
-* YoloV3
-* CNN
-* DeepLearning
-* Tensorflow
-* Keras
-
 ## References
 eye_blink_detector, https://github.com/kairess/eye_blink_detector.  
 
