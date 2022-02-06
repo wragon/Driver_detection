@@ -15,9 +15,6 @@
 * Tensorflow
 * Keras
 
-## 결과
-![image](https://user-images.githubusercontent.com/62223905/136493433-2f3265ea-dd02-430a-95ad-c1de9b636c97.png)
-
 ## References
 [1]	공공데이터 사이트, “도로교통공단_최근 5년 교통사고 통계”.  
 [2]	공공데이터 사이트, “경찰청_졸음운전 교통사고 현황”.  
